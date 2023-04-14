@@ -1,0 +1,23 @@
+.book-details {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.book-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.book-author {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.book-description {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
