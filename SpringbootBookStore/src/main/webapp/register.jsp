@@ -12,7 +12,7 @@
       <label for="email">Email:</label>
       <input type="email" id="email" name="email" class="inputField" required>
       <label for="username">username:</label>
-      <input type="text" id="username" name="username" class="inputField" required>
+      <input type="text" id="userName" name="userName" class="inputField" required>
       <label for="password">Password:</label>
       <input type="password" id="password" name="password" class="inputField" required>
       <input type="text" id="role" name="role" value="role" style="display:none;">
